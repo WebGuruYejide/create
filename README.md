@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+I am Yejide, a Servant mother. I assist young women, ages 18to 25 years old, to graduate from college and gain self-sufficiency, using the power of God. I am good at what I do. Welcome to my space in the cyber world. I intend to use this cyberspace to tell my truth and get the help I need to live the life of service I desire to live. I am seeking the attention and support of a particular group of people on the planet: Googlers. I intend to create, in this space, an environment that inspires the geeks who are Googlers to share their influence with me, in order to meet my goal: To use Google products to inspire 1 million people to donate $50 to see my dream come true IRL. 
 
-You can use the [editor on GitHub](https://github.com/WebGuruYejide/create/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Why Googlers, specifically? Aside from the fact, that they generally are some cool ass people using technology to do some cool ass stuff in the world . . . The very first time I spoke my goal in public, I was standing in a Grow with Google event, at the Mellwood Art and Entertainment Center in Louisville, Ky back in March of 2018.https://grow.google/events/louisville/ Interesting fact: I just (Jan. 2021) watched that video and saw MYSELF, in the background, just over the shoulder of the mayor of the city, as he was being interviewed. I assume the video has been up since at least April of 2018, it is my first time seeing it. One more way for the Universe to confirm I am on the right path.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WebGuruYejide/create/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+While at the Grow with Google event, through a set of unusual incidents, I found myself in front of a camera, speaking my goal. “To use Google products to inspire 1 million people to donate $5 to see my dream come true.” When the filming was done, the cameraman Michael, (I regret that I did not get his last name, I was so shocked at his response) handed me twenty dollars. I still have that $20.00 dollar bill and when the campaign that comes from this creation process launches, it WILL start with the #2 because his donation will be recorded first. His reaction and response confirmed for me that I could be successful at achieving my goal. It has taken me this long to heal and gain the strength to believe in myself and my talents as much as I do in those I serve in my community.
